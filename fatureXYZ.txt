@@ -1,1 +1,2 @@
 this is new content.
+This is new content as well.
